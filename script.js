@@ -8,7 +8,8 @@ const noMessages = [
   "Don’t break my heart 💔",
   "You can’t say no 😝",
   "Nice try 😏",
-  "Still no? 👀"
+  "Still no? 👀",
+  "Apko bhagwan ji ki kasam, yes bolo na 🙏"
 ];
 
 let count = 0;
@@ -29,6 +30,9 @@ yesBtn.addEventListener("click", () => {
     <div style="text-align:center;">
       <h1>Yaaay 💖💖💖</h1>
       <p>You just made my day 🥰</p>
+      <p>I Love You Bubu! 😘</p>
+      <p>Pucchi dooo! 😍</p>
     </div>
   `;
+
 });
